@@ -1,0 +1,5 @@
+Kaung@Kaungs-MacBook-Pro mcino-Introduction-to-Git-and-GitHub % git branch -vv
+* bug-fix-revert 3f5fd7c Revert "Fix README footer year"
+  bug-fix-typo   3da0393 Fix README footer year
+  main           3da0393 [origin/main: ahead 1] Fix README footer year
+Kaung@Kaungs-MacBook-Pro mcino-Introduction-to-Git-and-GitHub % 
